@@ -19,7 +19,7 @@
 %   Measurement Method Using mmWave RadarA Deep Learning-based Non-contact 
 %   Phonocardiogram Measurement Method Using mmWave Radar ," 2026.
 %   
-%   (Manuscript in Preparation)
+%   (With Editor)
 % Contents:
 %   - Chest localization via cumulative energy evaluation
 %   - MDACM-based phase extraction
@@ -256,6 +256,7 @@ for i = 1:12
 end
 X_mean = mean(X, 1);
 figure;plot(X_mean);grid on;
+
 
 
 
