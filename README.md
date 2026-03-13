@@ -3,9 +3,11 @@ Signal processing pipeline for cardiac mechanical activity extraction from mmWav
 > **Paper Status:** Manuscript in Preparation
 > ## Overview
 
-This repository contains the **Cardiac signal extraction** (MATLAB) and partial dataset for non-contact cardiac mechanical activity extraction from FMCW millimeter-wave radar, as described in our paper:
+This repository contains the **Cardiac signal extraction** (MATLAB) and partial dataset() for non-contact cardiac mechanical activity extraction from FMCW millimeter-wave radar, as described in our paper:
 
-> Haozhe Liu, et al., "A Deep Learning-based Non-contact Phonocardiogram Measurement Method Using mmWave Radar," 2026. *(With Editor)*
+> Haozhe Liu, et al., "A Deep Learning-based Non-contact Phonocardiogram Measurement Method Using mmWave Radar," 2026. *(Under Review)*
+
+The complete dataset will be made publicly available after the paper is accepted.
 
 The proposed method achieves non-contact phonocardiogram (PCG) reconstruction from radar echoes of the human body. The signal processing pipeline extracts clean cardiac mechanical activity signals from raw radar data by integrating MDACM-based phase extraction, micro-motion amplification, and wavelet packet decomposition.
 ## Hardware
