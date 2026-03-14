@@ -22,4 +22,18 @@ The proposed method achieves non-contact phonocardiogram (PCG) reconstruction fr
 - Wavelet Toolbox
 
 ## Results
+Result of basic radar data analysis:
 ![2D-FFT](./results/2D-FFT.svg)
+![RA-heatmap](./results/RA-heatmap.svg)
+![RE-heatmap](./results/RE-heatmap.svg)
+Result of MDACM phase extraction:
+![Phase](./results/Phase.svg)
+Result of Micro-motion Amplification:
+![MA](./results/Masig.svg)
+Result of SST analysis:
+![SST](./results/SST.svg)
+Result of WPD subband denoising:
+![WPD](./results/WPDsig.svg)
+Network Output:
+![NET](./results/Netoutput.svg)
+
