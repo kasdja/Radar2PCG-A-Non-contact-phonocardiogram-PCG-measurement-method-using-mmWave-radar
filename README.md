@@ -22,4 +22,4 @@ The proposed method achieves non-contact phonocardiogram (PCG) reconstruction fr
 - Wavelet Toolbox
 
 ## Results
-![2D-FFT](./results/2D-FFT.png)
+![2D-FFT](./results/2D-FFT.svg)
