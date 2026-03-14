@@ -20,3 +20,6 @@ The proposed method achieves non-contact phonocardiogram (PCG) reconstruction fr
 - MATLAB 2022b or later
 - Signal Processing Toolbox
 - Wavelet Toolbox
+
+## Results
+![2D-FFT](./results/2D-FFT.png)
