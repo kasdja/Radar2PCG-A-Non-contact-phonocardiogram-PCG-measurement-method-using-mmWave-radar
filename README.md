@@ -26,6 +26,8 @@ The proposed method achieves non-contact phonocardiogram (PCG) reconstruction fr
 ![2D-FFT](./results/2D-FFT.svg)
 ![RA-heatmap](./results/RA-heatmap.svg)
 ![RE-heatmap](./results/RE-heatmap.svg)
+- Result of Chest Localization:
+![Chest](./results/chestloc.svg)
 - Result of MDACM phase extraction:
 ![Phase](./results/Phase.svg)
 - Result of Micro-motion Amplification:
