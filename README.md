@@ -22,8 +22,6 @@ The proposed method achieves non-contact phonocardiogram (PCG) reconstruction fr
 
 If you use this code or dataset in your research, please cite our paper:
 
-## BibTeX
-```bibtex
 @article{LIU2026111190,
   title   = {A Deep Learning-based Non-contact Phonocardiogram Measurement Method Using mmWave Radar},
   author  = {Haozhe Liu and Sheng Tang and others},
