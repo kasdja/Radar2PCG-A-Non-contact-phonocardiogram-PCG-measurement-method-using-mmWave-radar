@@ -12,7 +12,7 @@ Signal processing pipeline for cardiac mechanical activity extraction from mmWav
 
 This repository contains the **Cardiac signal extraction** (MATLAB) and dataset for non-contact cardiac mechanical activity extraction from FMCW millimeter-wave radar, as described in our paper:
 
-> **Haozhe Liu**, **Sheng Tang**, et al., "A Deep Learning-based Non-contact Phonocardiogram Measurement Method Using mmWave Radar," *Biomedical Signal Processing and Control*, vol. 127PB, p. 111190, 2026. DOI: [10.1016/j.bspc.2026.111190](https://doi.org/10.1016/j.bspc.2026.111190).
+> **Haozhe Liu** et al., "A Deep Learning-based Non-contact Phonocardiogram Measurement Method Using mmWave Radar," *Biomedical Signal Processing and Control*, vol. 127PB, p. 111190, 2026. DOI: [10.1016/j.bspc.2026.111190](https://doi.org/10.1016/j.bspc.2026.111190).
 
 The proposed method achieves non-contact phonocardiogram (PCG) reconstruction from radar echoes of the human body. The signal processing pipeline extracts clean cardiac mechanical activity signals from raw radar data by integrating MDACM-based phase extraction, micro-motion amplification, and wavelet packet decomposition.
 
@@ -20,7 +20,7 @@ The proposed method achieves non-contact phonocardiogram (PCG) reconstruction fr
 
 ## Citation
 
-If you use this code or dataset in your research, please cite our paper:
+If you want to use this code or dataset in your research, please cite our paper:
 
 @article{LIU2026111190,
   title   = {A Deep Learning-based Non-contact Phonocardiogram Measurement Method Using mmWave Radar},
@@ -29,7 +29,6 @@ If you use this code or dataset in your research, please cite our paper:
   volume  = {127PB},
   pages   = {111190},
   year    = {2026},
-  issn    = {1746-8094},
   doi     = {https://doi.org/10.1016/j.bspc.2026.111190}
 }
 
